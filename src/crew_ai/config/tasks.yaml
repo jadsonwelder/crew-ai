@@ -1,0 +1,5 @@
+tasks:
+  research:
+    name: "Pesquisa Básica"
+    description: "Realizar pesquisa inicial sobre o tópico"
+    agent: "researcher"
